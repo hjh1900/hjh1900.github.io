@@ -8,6 +8,12 @@ redirect_from:
 ---
 
 
-I am a third-year master's student at Chongqing University, soon to pursue a doctoral degree at Tsinghua University. My research focuses on the application of big data in geotechnical engineering and the analysis of debris-flow dynamics based on seismic signals.
+My name is Junhao Huang, I am now a senior-year undergraduate student of Chongqing University, majoring in geotechnical engineering. I am going to enroll in my PhD program in Tsinghua University. 
+
+My research interests include disaster prevention and mitigation of geological hazards, with a specific focus on the following areas:
+
+·Data Science in Geotechnical Engineering
+
+·Analysis debris-flow dynamics based on seismic signals
 
 [Email](hjh@stu.cqu.edu.cn)/ [ORCID](0009-0004-6635-399X)
